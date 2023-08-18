@@ -14,7 +14,7 @@ export class HomeComponent {
 
 
   constructor(private http:HttpClient){}
- 
+
   // ngOnInit(): void{
   //   this.http.get<any>('https://cms.alexsumina.me/api/pender-app-screen?populate=*').subscribe(response=>{
   //     this.pets = response.data
